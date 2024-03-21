@@ -72,7 +72,6 @@
         android:layout_marginTop="67dp"
         android:layout_marginBottom="329dp"
         android:shadowColor="#1FBEAF"
-        android:text="Android is an open-source operating system developed by Google for mobile devices, featuring a customizable user interface and a vast ecosystem of applications."
         android:textColor="@android:color/black"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
